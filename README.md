@@ -2,6 +2,8 @@
 
 In this notebook I use a publickly available dataset 'FraudDetection.xlsx'to train fraud detection models.
 
+* See Notebook **fraud_detection_imbalance_classes** in this repo for **Weighted Logistic Regression**.
+
 # Two Fraud Detection models trained:
 1. **Logistic Regression**  
 2. **AdaBoost Classifier** 
