@@ -1,4 +1,4 @@
-# FraudDetectionModel using Gretl
+# FraudDetectionModel
 
 In this notebook I use a publickly available dataset 'FraudDetection.xlsx'to train fraud detection models.
 
